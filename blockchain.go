@@ -1,4 +1,4 @@
-package main
+package blockchain_go
 
 type Blockchain struct {
 	blocks []*Block
